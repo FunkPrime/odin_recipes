@@ -1,0 +1,35 @@
+body {
+    font-family: 'papyrus';
+    background-color:cornsilk;
+    color: rgb(42, 48, 53);
+    
+    
+}
+
+h1 {
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.rec-link-list {
+    list-style-type: none;
+    
+    
+}
+
+
+ 
+.rec-links {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(45, 143, 74);
+    border: 1px solid white;
+    border-radius: 4px;
+    box-shadow: inset 1px 1px 3px 5px darkgreen;
+    width: 250px;
+    padding: 10px 10px;
+    cursor: pointer;
+    font-weight: Bold;
+    font-size: 12px;
+}
